@@ -16,6 +16,7 @@
 #include "Geometry/HcalCommonData/interface/HcalDDDRecConstants.h"
 
 #include "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.h"
+#include "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.icc"
 
 #include <TH1F.h>
 #include <TH2F.h>
